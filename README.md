@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋 Welcome to my page 🐺
+
+My name is Jordan, and I casually build things for fun whenever an idea pops into my head 🧠 💡, or when I am trying to solve a particular problem ♾️. 
+
+My interest lies in the intersection bewteen healthcare 🧬 and technology 🖥️, and I am currently improving my skills in Web Development 🕸️, Data Analytics 🧮,
+and Machine Learning 🎰 and Artifical Intelligence 👾.
+
+You can reach me through my <a href="https://www.linkedin.com/in/jordantanudjaja/">linkedin</a> or my <a href="https://jordantanudjaja.com/">website</a>.
 
 <!--
 **jordantanudjaja/jordantanudjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
